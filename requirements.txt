@@ -1,0 +1,34 @@
+langchain~=0.3.13
+langchain_community
+langchain_openai
+langchain-anthropic
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+langchain-experimental
+
+anthropic
+openai
+
+nltk==3.8.1
+pypdfium2
+pypdf
+rapidocr-onnxruntime
+sentence-transformers
+unstructured
+unstructured[pdf]
+
+python-pptx
+
+faiss-cpu
+grandalf 
+streamlit~=1.41.1
+
+python-dotenv~=1.0.1
+langchain-openai~=0.2.13
+langchain-core~=0.3.27
+
+pysqlite3-binary
+
+# 맥에서 오류날 경우 경우 밑 코드 실행 후 requirements.txt 실행
+# pip install git+https://github.com/julian-r/python-magic.git
